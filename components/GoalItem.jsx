@@ -20,6 +20,8 @@ const styles = StyleSheet.create({
     color: "white",
   },
 
+  
+
   goalText: {
     color: "white",
   },
